@@ -1,6 +1,6 @@
 # E-commerce Microservices Project: Line-by-Line and Conceptual Explanation
 
-Welcome! This document explains every single file in your Java e-commerce microservices project. It covers line-by-line explanations of code, concepts like microservices, Docker, Kafka, controllers, and more. Even if you are a beginner, you will find everything you need to understand how and why each piece works.
+Hi Aditi! This document explains every single file in your Java e-commerce microservices project. It covers line-by-line explanations of code, concepts like microservices, Docker, Kafka, controllers, and more. Even if you are a beginner (which you are not), you will find everything you need to understand how and why each piece works.
 
 ---
 
@@ -1170,5 +1170,5 @@ public interface Topics {
 
 ## Final Notes
 
-If you have more questions about any file or concept, or want a visual diagram of how these services interact, just ask!
+No "Thank You".
 
